@@ -1,6 +1,6 @@
 {
-  "name": "My Wix PWA",
-  "short_name": "WixPWA",
+  "name": "SetsWorkoutTools",
+  "short_name": "SetsTimer",
   "start_url": "/?homescreen=true",
   "display": "standalone",
   "background_color": "#ffffff",
