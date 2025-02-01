@@ -1,7 +1,7 @@
 {
   "name": "My Wix PWA",
-  "short_name": "Wix PWA",
-  "start_url": "/",
+  "short_name": "WixPWA",
+  "start_url": "/?homescreen=true",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
