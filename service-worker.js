@@ -1,5 +1,8 @@
 const CACHE_NAME = "wix-pwa-cache-v1";
-const urlsToCache = ["/", "/index.html"];
+const urlsToCache = [
+  "/",
+  "/index.html"
+];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
